@@ -1,0 +1,31 @@
+ .navigation {
+   color: black;
+   text-align: center;
+ }
+
+ .navigation__title {
+   background-color: coral;
+ }
+
+ .navigation__list {
+   text-align: center;
+   list-style-type: none;
+   line-height: 1, 2;
+   color: brown;
+ }
+
+ .navigation__item {
+   background-color: rgb (225, 225, 190);
+ }
+
+ .navigation__link {
+   text-decoration: none;
+ }
+
+ .navigation__link--visited {
+   color: rgb(106, 7, 40);
+ }
+
+ .navigation__link--hover {
+   color: rgb(45, 60, 140);
+ }

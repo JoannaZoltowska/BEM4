@@ -1,0 +1,25 @@
+ .table {
+   font-family: 'Roboto', sans-serif;
+   border-collapse: collapse;
+   width: 100%;
+   margin-top: 20px;
+ }
+
+ .display {
+   display: none;
+ }
+
+ .table__td {
+   border: 2px solid rgb(63, 18, 18);
+   padding: 10px;
+   text-align: center;
+   background-color: bisque;
+ }
+
+ .table__th {
+   background-color: coral;
+ }
+
+ .container {
+   overflow-x: auto;
+ }
